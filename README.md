@@ -1,231 +1,363 @@
-AI Resume Builder 🤖✨
-https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white
-https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-16.x+-339933?logo=node.js&logoColor=white
-https://img.shields.io/github/last-commit/tass027/ai-resume-builder
-https://img.shields.io/github/issues/tass027/ai-resume-builder
-https://img.shields.io/github/issues-pr/tass027/ai-resume-builder
-https://img.shields.io/github/stars/tass027/ai-resume-builder
-https://img.shields.io/github/forks/tass027/ai-resume-builder
-https://img.shields.io/github/license/tass027/ai-resume-builder
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-
 <div align="center">
-🤖 AI Resume Builder
-A revolutionary AI-powered resume builder that maximizes your chances of landing your dream job
 
-Built with cutting-edge AI technology and accessibility in mind
+# 🤖 AI Resume Builder
 
-🚀 Live Demo • 📚 Documentation • 🐛 Report Bug • 💡 Request Feature
+### *Build smarter resumes with AI-powered intelligence*
 
-https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=AI+Resume+Builder+%F0%9F%A4%96
+[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![License](https://img.shields.io/github/license/tass027/ai-resume-builder?style=for-the-badge)](LICENSE)
+
+[![GitHub Stars](https://img.shields.io/github/stars/tass027/ai-resume-builder?style=social)](https://github.com/tass027/ai-resume-builder/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tass027/ai-resume-builder?style=social)](https://github.com/tass027/ai-resume-builder/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/tass027/ai-resume-builder?style=social)](https://github.com/tass027/ai-resume-builder/issues)
+
+[🚀 Live Demo](https://tass027.github.io/ai-resume-builder) • [📚 Documentation](https://github.com/tass027/ai-resume-builder/wiki) • [🐛 Report Bug](https://github.com/tass027/ai-resume-builder/issues) • [💡 Request Feature](https://github.com/tass027/ai-resume-builder/issues/new)
+
+![AI Resume Builder Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=AI+Resume+Builder+🤖)
 
 </div>
-🌟 Featured In
-https://img.shields.io/badge/Featured-Project-FF6B6B
-https://img.shields.io/badge/Open%2520Source-%E2%9D%A4%EF%B8%8F-34D058
-https://img.shields.io/badge/Made%2520with-%E2%9D%A4%EF%B8%8F-FF69B4
 
-📊 Project Stats
-https://img.shields.io/github/repo-size/tass027/ai-resume-builder
-https://img.shields.io/github/languages/code-size/tass027/ai-resume-builder
-https://img.shields.io/github/languages/count/tass027/ai-resume-builder
-https://img.shields.io/github/languages/top/tass027/ai-resume-builder
-https://img.shields.io/github/contributors/tass027/ai-resume-builder
+---
 
-🚀 Quick Start
-Prerequisites
-https://img.shields.io/badge/npm-8.x+-CB3837?logo=npm
-https://img.shields.io/badge/Git-2.x+-F05032?logo=git
+## 📋 Table of Contents
 
-bash
-# Verify installations
-node --version
-npm --version
-git --version
-Installation & Development
-https://img.shields.io/badge/Status-Active-10B981
-https://img.shields.io/badge/Version-1.0.0-blue
+- [✨ Features](#-features)
+- [🚀 Quick Start](#-quick-start)
+- [🏗️ Project Structure](#️-project-structure)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [📊 Usage Examples](#-usage-examples)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👤 Author](#-author)
+- [🙏 Acknowledgments](#-acknowledgments)
 
-bash
-# 1. Clone the repository
+---
+
+## ✨ Features
+
+### 🤖 AI-Powered Intelligence
+
+![AI Features](https://img.shields.io/badge/AI-Powered-10B981?style=flat-square)
+![Real-time](https://img.shields.io/badge/Real--time-Feedback-8B5CF6?style=flat-square)
+![Smart Analysis](https://img.shields.io/badge/Smart-Analysis-EC4899?style=flat-square)
+
+- **Smart Job Description Analysis** - AI analyzes job postings and optimizes your resume accordingly
+- **Real-time AI Assistant** - Intelligent suggestions during resume writing with context-aware recommendations
+- **Instant Feedback** - Live quality evaluations and improvement suggestions
+- **Keyword Optimization** - Automatic ATS keyword matching and optimization
+
+### 🎨 Professional Templates
+
+![Templates](https://img.shields.io/badge/Templates-Industry_Specific-F59E0B?style=flat-square)
+![ATS](https://img.shields.io/badge/ATS-Optimized-84CC16?style=flat-square)
+
+- **Industry-Specific Designs** - Professionally crafted templates for tech, business, creative, and more
+- **ATS Compatibility** - All templates optimized for Applicant Tracking Systems
+- **Cover Letter Generator** - Automatic cover letter creation matching your resume
+- **Multiple Export Formats** - PDF, DOCX, and more
+
+### ♿ Advanced Accessibility
+
+![Accessibility](https://img.shields.io/badge/Accessibility-WCAG_2.1-06B6D4?style=flat-square)
+![Voice Control](https://img.shields.io/badge/Voice-Enabled-EF4444?style=flat-square)
+
+- **Voice Navigation** - Complete voice control for hands-free resume building
+- **Screen Reader Support** - Full compatibility with assistive technologies
+- **Customizable Interface** - Adjustable fonts, colors, and contrast
+- **Keyboard Navigation** - Comprehensive keyboard shortcuts
+
+### 👥 Collaboration Features
+
+![Collaboration](https://img.shields.io/badge/Real--time-Collaboration-3B82F6?style=flat-square)
+![Team Review](https://img.shields.io/badge/Team-Review-14B8A6?style=flat-square)
+
+- **Collaborative Editing** - Work together on the same resume in real-time
+- **Review Mode** - Get instant feedback from colleagues and mentors
+- **Comment System** - Leave suggestions and notes directly on the resume
+- **Version History** - Track all changes and revert when needed
+
+### 📊 Analytics & Tracking
+
+![Analytics](https://img.shields.io/badge/Performance-Analytics-8B5CF6?style=flat-square)
+![Tracking](https://img.shields.io/badge/Application-Tracking-10B981?style=flat-square)
+
+- **Analytics Dashboard** - Track views, downloads, and engagement
+- **Application Tracker** - Manage all your job applications in one place
+- **Success Metrics** - Measure response rates and interview callbacks
+- **A/B Testing** - Compare different resume versions
+
+### 🎮 Gamification System
+
+![Achievements](https://img.shields.io/badge/Achievements-Unlock_Rewards-F59E0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Tracking-EC4899?style=flat-square)
+
+- **Achievement System** - Unlock badges and rewards as you improve
+- **Progress Tracking** - Visual representation of your resume quality
+- **Milestones** - Celebrate your job search victories
+- **Leaderboards** - Compare your progress with others (optional)
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+![Node.js](https://img.shields.io/badge/Node.js-16.x+-339933?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-8.x+-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.x+-F05032?style=flat-square&logo=git&logoColor=white)
+
+Verify your installations:
+
+```bash
+node --version  # Should be 16.x or higher
+npm --version   # Should be 8.x or higher
+git --version   # Should be 2.x or higher
+```
+
+### Installation
+
+```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/tass027/ai-resume-builder.git
 cd ai-resume-builder
 
-# 2. Install dependencies
+# 2️⃣ Install dependencies
 npm install
 
-# 3. Start development server
+# 3️⃣ Start development server
 npm start
 
-# 4. Open in browser
+# 4️⃣ Open in your browser
 # ➡️ http://localhost:3000
-Available Scripts
-https://img.shields.io/badge/npm-run_build-FF6B6B
-https://img.shields.io/badge/npm-run_test-84CC16
-https://img.shields.io/badge/npm-run_deploy-3B82F6
+```
 
-bash
-npm start          # 🎯 Development mode
-npm run build      # 🏗️ Production build
-npm test           # 🧪 Run tests
-npm run deploy     # 🚀 Deploy to production
-🎯 Key Features
-🤖 AI-Powered Intelligence
-https://img.shields.io/badge/%F0%9F%A4%96-AI_Analysis-10B981
-https://img.shields.io/badge/%F0%9F%92%AC-Live_Feedback-8B5CF6
-https://img.shields.io/badge/%F0%9F%93%8A-Job_Analysis-EC4899
+### Available Scripts
 
-Smart Job Description Analysis - AI analyzes job postings and optimizes your resume accordingly
+| Command | Description | Badge |
+|---------|-------------|-------|
+| `npm start` | Run development server | ![Dev](https://img.shields.io/badge/mode-development-10B981?style=flat-square) |
+| `npm run build` | Create production build | ![Build](https://img.shields.io/badge/build-production-3B82F6?style=flat-square) |
+| `npm test` | Run test suite | ![Test](https://img.shields.io/badge/tests-passing-84CC16?style=flat-square) |
+| `npm run deploy` | Deploy to production | ![Deploy](https://img.shields.io/badge/deploy-ready-F59E0B?style=flat-square) |
 
-Real-time AI Assistant - Intelligent suggestions during resume writing
+---
 
-Instant Feedback - Live evaluations of your resume quality
+## 🏗️ Project Structure
 
-🎨 Professional Templates
-https://img.shields.io/badge/%F0%9F%8E%A8-Industry_Templates-F59E0B
-https://img.shields.io/badge/%F0%9F%93%88-ATS_Optimized-84CC16
-
-Industry-Specific Designs - Templates tailored for different sectors
-
-ATS Compatibility - Optimized for Applicant Tracking Systems
-
-Cover Letter Generator - Automatic cover letter creation
-
-♿ Advanced Accessibility
-https://img.shields.io/badge/%E2%99%BF-Full_Accessibility-06B6D4
-https://img.shields.io/badge/%F0%9F%8E%A4-Voice_Control-EF4444
-
-Voice Navigation - Control via voice commands
-
-Accessibility Settings - Customization for all needs
-
-WCAG 2.1 Compliance - Strict accessibility standards
-
-👥 Collaboration Features
-https://img.shields.io/badge/%F0%9F%91%A5-Real_Time_Collab-3B82F6
-https://img.shields.io/badge/%F0%9F%94%8D-Team_Review-14B8A6
-
-Collaborative Editing - Work together on the same resume
-
-Review Mode - Real-time feedback from colleagues
-
-📊 Analytics & Tracking
-https://img.shields.io/badge/%F0%9F%93%8A-Performance_Analytics-8B5CF6
-https://img.shields.io/badge/%F0%9F%93%88-App_Tracker-10B981
-
-Analytics Dashboard - Track your resume performance
-
-Application Tracker - Manage your job applications
-
-Success Statistics - Measure your response rate
-
-🎮 Gamification System
-https://img.shields.io/badge/%F0%9F%8F%86-Achievement_System-F59E0B
-https://img.shields.io/badge/%F0%9F%93%88-Progress_Tracking-EC4899
-
-Achievement System - Unlock rewards and badges
-
-Progress Tracking - Visualize your improvement journey
-
-🏗️ Project Architecture
-text
+```
 ai-resume-builder/
-├── 📁 public/                 # Static files
+├── 📁 public/                      # Static files & assets
+│   └── index.html                  # Main HTML template
 ├── 📁 src/
-│   ├── 📁 components/         # React Components
-│   │   ├── 📁 ai/            # 🤖 AI Components
+│   ├── 📁 components/              # React Components
+│   │   ├── 📁 ai/                 # 🤖 AI-powered components
 │   │   │   ├── JobDescriptionAnalyzer.jsx
 │   │   │   ├── LiveFeedback.jsx
 │   │   │   └── RealAIAssistant.jsx
-│   │   ├── 📁 accessibility/ # ♿ Accessibility
-│   │   ├── 📁 analytics/     # 📊 Analytics
-│   │   ├── 📁 collaboration/ # 👥 Collaboration
-│   │   ├── 📁 gamification/  # 🎮 Gamification
-│   │   ├── 📁 plugins/       # 🔌 Plugin System
-│   │   ├── 📁 presentation/  # 🎭 Presentation Mode
-│   │   └── 📁 templates/     # 🎨 Templates & Features
-│   ├── 📁 data/              # 📁 Data (templates, themes, translations)
-│   ├── 📁 utils/             # 🛠️ Utilities
-│   ├── JS_App.js             # 🎪 Main Component
-│   └── App.css               # 🎨 Main Styles
-├── 📄 package.json           # 📦 Dependencies & Scripts
-└── 📄 README.md              # 📚 Documentation
-🛠️ Technology Stack
-https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react
-https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black
-https://img.shields.io/badge/CSS3-1572B6?logo=css3
-https://img.shields.io/badge/Git-F05032?logo=git
-https://img.shields.io/badge/GitHub-181717?logo=github
+│   │   ├── 📁 accessibility/      # ♿ Accessibility features
+│   │   │   ├── AccessibilitySettings.jsx
+│   │   │   └── VoiceRecognition.jsx
+│   │   ├── 📁 analytics/          # 📊 Analytics & tracking
+│   │   │   └── AnalyticsDashboard.jsx
+│   │   ├── 📁 collaboration/      # 👥 Collaboration tools
+│   │   │   └── CollaborativeEditor.jsx
+│   │   ├── 📁 gamification/       # 🎮 Gamification system
+│   │   │   └── AchievementsSystem.jsx
+│   │   ├── 📁 plugins/            # 🔌 Plugin system
+│   │   │   └── PluginManager.jsx
+│   │   ├── 📁 presentation/       # 🎭 Presentation mode
+│   │   │   └── PresentationMode.jsx
+│   │   └── 📁 templates/          # 🎨 Resume templates
+│   │       ├── ApplicationTracker.jsx
+│   │       ├── ATSAnalysisPanel.jsx
+│   │       ├── CoverLetterGenerator.jsx
+│   │       ├── EnhancedPhotoUpload.jsx
+│   │       ├── ExportOptions.jsx
+│   │       ├── PhotoSettings.jsx
+│   │       ├── ResumePreview.jsx
+│   │       └── SmartSuggestions.jsx
+│   ├── 📁 data/                   # Data files
+│   │   ├── templates.js           # Resume templates
+│   │   ├── themes.js              # Color themes
+│   │   └── translations.js        # i18n translations
+│   ├── 📁 utils/                  # Utility functions
+│   ├── App.js                     # 🎪 Main application component
+│   ├── App.css                    # 🎨 Global styles
+│   └── index.js                   # React entry point
+├── 📄 package.json                # Dependencies & scripts
+├── 📄 README.md                   # This file
+└── 📄 LICENSE.txt                 # MIT License
+```
 
-📈 Usage Statistics
-https://img.shields.io/github/commit-activity/m/tass027/ai-resume-builder
-https://img.shields.io/github/downloads/tass027/ai-resume-builder/total
-https://img.shields.io/github/issues-raw/tass027/ai-resume-builder
+---
 
-🤝 Contributing
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-https://img.shields.io/github/issues/tass027/ai-resume-builder
-https://img.shields.io/github/issues-pr/tass027/ai-resume-builder
+## 🛠️ Technology Stack
 
-We love contributions! Here's how you can help:
+### Frontend
 
-Fork the project
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Create a branch (git checkout -b feature/AmazingFeature)
+### Development Tools
 
-Commit your changes (git commit -m 'Add AmazingFeature')
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-Push to the branch (git push origin feature/AmazingFeature)
+---
 
-Open a Pull Request
+## 📊 Usage Examples
 
-Contribution Guidelines
-Read our Code of Conduct
+### Basic Resume Creation
 
-Follow the contribution guidelines
+```javascript
+// Start building your resume
+import ResumeBuilder from './components/ResumeBuilder';
 
-Use the issue templates
+function App() {
+  return <ResumeBuilder />;
+}
+```
 
-🐛 Bug Report
-https://img.shields.io/badge/%F0%9F%90%9B-Report_Bug-EF4444
-https://img.shields.io/badge/%F0%9F%92%A1-Request_Feature-8B5CF6
+### AI-Powered Job Analysis
 
-Found a bug? Open an issue and we'll fix it ASAP!
+```javascript
+// Analyze job description
+import JobDescriptionAnalyzer from './components/ai/JobDescriptionAnalyzer';
 
-📄 License
-https://img.shields.io/github/license/tass027/ai-resume-builder
+<JobDescriptionAnalyzer 
+  onAnalysisComplete={(keywords) => {
+    console.log('Optimized keywords:', keywords);
+  }}
+/>
+```
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Voice Navigation
 
-👤 Author
-Tasnim Mehrai
+```javascript
+// Enable voice commands
+import VoiceRecognition from './components/accessibility/VoiceRecognition';
 
-📧 Email: tasnimmehrai992@gmail.com
+<VoiceRecognition enabled={true} />
+```
 
-🌐 GitHub: @tass027
+---
 
-💼 Portfolio: Coming Soon
+## 🤝 Contributing
 
-🙏 Acknowledgments
-React - UI Library
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/tass027/ai-resume-builder?style=for-the-badge)
 
-OpenAI - AI Technologies
+We welcome contributions from everyone! Here's how you can help:
 
-Contributors - All our amazing contributors
+### How to Contribute
 
-📞 Support
-https://img.shields.io/badge/%E2%9D%93-Questions-3B82F6
-https://img.shields.io/badge/%F0%9F%92%AC-Discussions-8B5CF6
+1. **Fork** the project
+2. **Create** your feature branch (`git checkout -b feature/AmazingFeature`)
+3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
+4. **Push** to the branch (`git push origin feature/AmazingFeature`)
+5. **Open** a Pull Request
+
+### Contribution Guidelines
+
+- 📖 Read our [Code of Conduct](CODE_OF_CONDUCT.md)
+- 📝 Follow the [contribution guidelines](CONTRIBUTING.md)
+- 🐛 Use the [issue templates](https://github.com/tass027/ai-resume-builder/issues/new/choose)
+- ✅ Ensure all tests pass before submitting
+- 📚 Update documentation as needed
+
+### Areas We Need Help
+
+- 🌐 Internationalization (i18n)
+- 🎨 New resume templates
+- 🧪 Test coverage
+- 📝 Documentation improvements
+- 🐛 Bug fixes
+
+---
+
+## 📄 License
+
+![License](https://img.shields.io/github/license/tass027/ai-resume-builder?style=for-the-badge)
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+
+Copyright (c) 2024 Tasnim Mehrai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+```
+
+---
+
+## 👤 Author
 
 <div align="center">
-💼 Ready to boost your career?
-🚀 Get Started | 📖 Full Documentation | ⭐ Give us a Star
 
-If this project helps you, please consider giving it a star! ⭐
+### **Tasnim Mehrai**
 
-Made with ❤️ by Tasnim Mehrai
+[![Email](https://img.shields.io/badge/Email-tasnimmehrai992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasnimmehrai992@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40tass027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tass027)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-https://via.placeholder.com/800/4F46E5/FFFFFF?text=Build+Better+Resumes+with+AI+%F0%9F%A4%96
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+- [React](https://reactjs.org/) - The amazing UI library
+- [OpenAI](https://openai.com/) - AI technology inspiration
+- All our amazing [contributors](https://github.com/tass027/ai-resume-builder/graphs/contributors)
+- The open-source community
+
+---
+
+## 📞 Support
+
+<div align="center">
+
+[![Questions](https://img.shields.io/badge/Questions-Ask_Here-3B82F6?style=for-the-badge)](https://github.com/tass027/ai-resume-builder/discussions)
+[![Discussions](https://img.shields.io/badge/Discussions-Join_Us-8B5CF6?style=for-the-badge)](https://github.com/tass027/ai-resume-builder/discussions)
+[![Issues](https://img.shields.io/badge/Issues-Report_Bug-EF4444?style=for-the-badge)](https://github.com/tass027/ai-resume-builder/issues)
+
+</div>
+
+---
+
+## 📈 Project Stats
+
+<div align="center">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tass027/ai-resume-builder?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/tass027/ai-resume-builder?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/tass027/ai-resume-builder?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/tass027/ai-resume-builder?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Ready to Build Your Dream Resume?
+
+[![Get Started](https://img.shields.io/badge/🚀_Get_Started-Try_Now-4F46E5?style=for-the-badge)](https://tass027.github.io/ai-resume-builder)
+[![Documentation](https://img.shields.io/badge/📖_Read-Documentation-10B981?style=for-the-badge)](https://github.com/tass027/ai-resume-builder/wiki)
+[![Star Project](https://img.shields.io/badge/⭐_Give_Us-A_Star-F59E0B?style=for-the-badge)](https://github.com/tass027/ai-resume-builder)
+
+---
+
+### *If this project helps you land your dream job, please consider giving it a star!* ⭐
+
+**Made with ❤️ by [Tasnim Mehrai](https://github.com/tass027)**
+
+![Footer Banner](https://via.placeholder.com/1200x200/4F46E5/FFFFFF?text=Build+Better+Resumes+with+AI+🤖)
 
 </div>
