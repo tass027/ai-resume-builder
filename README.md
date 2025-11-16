@@ -300,7 +300,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 <div align="center">
 
-### **Tasnim Mehrai**
+### **Tasnim Mehrabi**
 
 [![Email](https://img.shields.io/badge/Email-tasnimmehrai992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasnimmehrai992@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%40tass027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tass027)
@@ -356,7 +356,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ### *If this project helps you land your dream job, please consider giving it a star!* ⭐
 
-**Made with ❤️ by [Tasnim Mehrai](https://github.com/tass027)**
+**Made with ❤️ by [Tasnim Mehrabi](https://github.com/tass027)**
 
 ![Footer Banner](https://via.placeholder.com/1200x200/4F46E5/FFFFFF?text=Build+Better+Resumes+with+AI+🤖)
 
